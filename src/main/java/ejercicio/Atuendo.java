@@ -16,6 +16,6 @@ public class Atuendo {
 		parteInferior = newParteInf;
 		
 		if(newCalza == null) {throw new NullPointerException("El calzado no puede quedar vacio");}
-		calzado = newCalza; 
+		calzado = newCalza;
 	}
 }
